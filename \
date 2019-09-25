@@ -1,0 +1,18 @@
+package trip.planner
+
+class Trip {
+
+		public string name;
+		public string start_date; 
+		public string finish_date; 
+		public string airline;
+		public string boarding_group;
+		public string seat; 
+		public string gate; 
+		public string destine;
+		public string origin; 
+		public string ariport; 
+    static constraints = {
+
+    }
+}
